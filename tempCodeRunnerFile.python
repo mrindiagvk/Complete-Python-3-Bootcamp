@@ -1,0 +1,7 @@
+N=int(input())
+M=input.split()
+#converting_str_to_int
+for i in M:
+    i=int(i)
+k=M[1]
+type(k)
